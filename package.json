@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-ghunnah-formant-dsp",
+  "version": "1.0.0",
+  "description": "Nasal Ghunnah Formant Resonance & 2-Harakat Timer (محلل التردد الصوتي للغنة ومقدار الحركتين)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
